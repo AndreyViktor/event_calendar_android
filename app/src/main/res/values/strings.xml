@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventCalendar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_all_events">All events</string>
+    <string name="title_add_event">New event</string>
+    <string name="title_favorite">Favorites</string>
+</resources>
